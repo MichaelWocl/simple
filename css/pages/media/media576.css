@@ -1,0 +1,8 @@
+@media (max-width: 576px) {
+  [class*='__container'] {
+    max-width: 510px;
+  }
+
+  /* header */
+  
+}

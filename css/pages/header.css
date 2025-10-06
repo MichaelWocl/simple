@@ -1,0 +1,27 @@
+.header{
+    border-bottom: 1px solid var(--steam);
+}
+
+.header__container{
+    padding-top: 28px;
+    padding-bottom: 28px;
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header__nav{
+    display: flex;
+    gap: 60px;
+}
+
+.header__menu{
+    display: flex;
+    gap: 60px;
+}
+
+.header__controls{
+    display: flex;
+    gap: 30px;
+}
